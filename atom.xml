@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://flyinsky-s.github.io</id>
-    <title>某汪de好基友的博客</title>
-    <updated>2021-05-02T00:41:50.389Z</updated>
+    <title>安城的博客</title>
+    <updated>2021-05-03T01:38:36.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://flyinsky-s.github.io"/>
     <link rel="self" href="https://flyinsky-s.github.io/atom.xml"/>
     <subtitle>眼中闪烁的泪光，也将化作永不妥协的坚强。</subtitle>
     <logo>https://flyinsky-s.github.io/images/avatar.png</logo>
     <icon>https://flyinsky-s.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 某汪de好基友的博客</rights>
+    <rights>All rights reserved 2021, 安城的博客</rights>
     <entry>
         <title type="html"><![CDATA[关于破解百度网盘限速]]></title>
         <id>https://flyinsky-s.github.io/post/guan-yu-po-jie-bai-du-wang-pan-xian-su/</id>
