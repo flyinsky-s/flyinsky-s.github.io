@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://flyinsky-s.github.io</id>
     <title>安城的博客</title>
-    <updated>2021-05-03T01:43:10.728Z</updated>
+    <updated>2021-05-03T04:48:36.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://flyinsky-s.github.io"/>
     <link rel="self" href="https://flyinsky-s.github.io/atom.xml"/>
@@ -10,38 +10,4 @@
     <logo>https://flyinsky-s.github.io/images/avatar.png</logo>
     <icon>https://flyinsky-s.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 安城的博客</rights>
-    <entry>
-        <title type="html"><![CDATA[关于破解百度网盘限速]]></title>
-        <id>https://flyinsky-s.github.io/post/guan-yu-po-jie-bai-du-wang-pan-xian-su/</id>
-        <link href="https://flyinsky-s.github.io/post/guan-yu-po-jie-bai-du-wang-pan-xian-su/">
-        </link>
-        <updated>2020-08-02T03:20:52.000Z</updated>
-        <content type="html"><![CDATA[<p>安装油猴脚本和IDM<br>
-下载地址：https://wwe.lanzous.com/iCp9Hebx4wj<br>
-用法在压缩文件里<br>
-安装教程：<br>
-Chrome</p>
-<p>直接在Chrome网上应用商店搜【Tampermonkey】安装即可</p>
-<p>搜狗浏览器</p>
-<p>http://ie.sogou.com/app/search/Tampermonkey</p>
-<p>360安全浏览器</p>
-<p>https://ext.se.360.cn/webstore/search/tampermonkey</p>
-<p>360极速浏览器</p>
-<p>https://ext.chrome.360.cn/webstore/search/tampermonkey</p>
-<p>火狐浏览器</p>
-<p>https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/</p>
-<p>QQ浏览器</p>
-<p>http://appcenter.browser.qq.com/search/detail?key=Tampermonkey&amp;id=dhdgffkkebhmkfjojejmpbldmpobfkfo &amp;title=Tampermonkey</p>
-<p>UC浏览器</p>
-<p>链接找不到，直接在UC拓展中心搜【Tampermonkey】安装即可</p>
-<p>Safari浏览器</p>
-<p>http://tampermonkey.net/?browser=safari</p>
-<p>微软EDGE浏览器</p>
-<p>https://www.microsoft.com/zh-cn/store/p/tampermonkey/9nblggh5162s?rtc=1</p>
-<p>遨游浏览器</p>
-<p>http://extension.maxthon.com/detail/index.php?view_id=1680</p>
-<p>Opera浏览器</p>
-<p>https://addons.opera.com/zh-cn/extensions/details/tampermonkey-beta/?display=en</p>
-]]></content>
-    </entry>
 </feed>
